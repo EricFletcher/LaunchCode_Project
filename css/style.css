@@ -1,0 +1,71 @@
+/* YOUR CUSTOM STYLES */
+        .button-link {
+            color: black;
+            background-color: yellow;
+        }
+        html,
+        body {
+            height: 100%;
+        }
+        /* Navigation*/
+        .navbar {
+            background-color: #8815DD;
+        }
+        .top-nav-collapse {
+            background-color:#8815DD;
+        }
+        
+        footer.page-footer {
+            background-color: #8815DD;
+        }
+        @media only screen and (max-width: 768px) {
+            .navbar {
+                background-color: #8815DD;
+            }
+        }
+        /* Carousel*/
+        .carousel {
+            height: 75%;
+        }
+        @media (max-width: 776px) {
+            .carousel {
+                height: 100%;
+            }
+        }
+        .carousel-item,
+        .active {
+            height: 100%;
+        }
+        .carousel-inner {
+            height: 100%;
+        }
+        .carousel-item:nth-child(1) {
+            background-image: url(http://www.teknorc.com/wp-content/uploads/2012/11/Tekno2016_Summer_Shirt_Back.png);
+            background-repeat: no-repeat;
+            background-size: cover;            
+        }
+        .carousel-item:nth-child(2) {
+            background-image: url("https://www.teamassociated.com/downloads/wallpaper/Team_Associated_Logo_2/Team_Associated_Logo_2_1280x960.jpg");
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+        .carousel-item:nth-child(3) {
+            background-image: url("http://mdbootstrap.com/images/slides/slide%20(7).jpg");
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+        /*Caption*/
+        .flex-center {
+            color: #fff;
+        }
+        h1 {
+            color: #F7F007;
+            font-weight: bold;
+            text-shadow: 2px 2px #8815DD;
+        }
+        h5{
+            color: #8815DD;
+            font-weight: bold;
+            text-shadow: -1px 0 #F7F007,0 1px #F7F007,1px 0 #F7F007,0 -1px #F7F007;
+        }
+        
