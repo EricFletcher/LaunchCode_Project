@@ -2232,7 +2232,7 @@
 }
 
 .primary-color-dark {
-  background-color: #0d47a1 !important;
+  background-color: #8815DD !important;
 }
 
 .secondary-color {
@@ -2626,6 +2626,8 @@
 
 .z-depth-1-half, .media img, .tooltip .tooltip-inner, .btn:hover, .btn-secondary.active, .btn-secondary.dropdown-toggle, .btn-primary.active, .btn-default.active, .btn-success.active, .btn-info.active, .btn-warning.active, .btn-danger.active, .pager li a:hover, .btn-elegant.active, .btn-unique.active, .btn-pink.active, .btn-purple.active, .btn-deep-purple.active, .btn-indigo.active, .btn-cyan.active, .btn-light-green.active, .btn-dark-green.active, .btn-lime.active, .btn-yellow.active, .btn-amber.active, .btn-orange.active, .btn-deep-orange.active, .btn-brown.active, .btn-blue-grey.active, .btn-mdb.active {
   box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 15px 0 rgba(0, 0, 0, 0.15);
+  align-items: center;
+  background-color: #dddddd;
 }
 
 .z-depth-2, .section img, .section .view {
@@ -6525,6 +6527,7 @@ p.lead {
 @media only screen and (max-width: 992px) {
   .center-on-small-only {
     text-align: center;
+    align-items: center;
   }
   .center-on-small-only .img-fluid, .center-on-small-only .section img, .section .center-on-small-only img, .center-on-small-only .section .view, .section .center-on-small-only .view, .center-on-small-only .card img, .card .center-on-small-only img {
     display: inline;
@@ -6865,12 +6868,13 @@ button:focus {
 }
 
 .btn-primary {
-  background: #4285F4;
-  color: #fff !important;
+  background: #8815DD;
+  color: #FFFFFF;
 }
 
 .btn-primary:hover, .btn-primary:focus {
-  background-color: #5a95f5 !important;
+  background-color: #8815DD !important;
+  color: #000;
 }
 
 .btn-primary.active {
@@ -7768,6 +7772,7 @@ i.btn-danger {
   -o-transition: 0.4s;
   -ms-transition: 0.4s;
   transition: 0.4s;
+  background-color: #ddbdd;
 }
 
 .card .card-title a:hover {

@@ -1,0 +1,1471 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Tracks</name>
+		<Placemark>
+			<name>Thornhill Racing Circuit</name>
+			<description><![CDATA[Address: 1575 County Road 101, Hutto, Texas 78634]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-97.5201416,30.6219593,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>439 Raceway</name>
+			<description><![CDATA[Address: 10853 Fm 439, Belton, Texas 76513]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-97.5803947,31.087487,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Temple R/C Speedway</name>
+			<description><![CDATA[Address: 1906 E Adams Ave, Temple, Texas 76501]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-97.31946950000001,31.092044100000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mike's/Gulf Coast Raceway</name>
+			<description><![CDATA[Address: 21768 E Knox Dr, Porter, Texas 77365]]></description>
+			<styleUrl>#icon-960-FFFFFF</styleUrl>
+			<Point>
+				<coordinates>-95.2408218,30.077858600000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RCHQ</name>
+			<description><![CDATA[Address: 14910 Nacogdoches Rd Suite 110, San Antonio, Texas 78247]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-98.3743286,29.5756965,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Indy R/C World</name>
+			<description><![CDATA[Address: 2020 Saturn Rd, Garland, Texas 75041]]></description>
+			<styleUrl>#icon-960-FFFFFF</styleUrl>
+			<Point>
+				<coordinates>-96.6474152,32.8935699,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Newred Hobbies</name>
+			<description><![CDATA[Tom Hitchcock, 609 NW 4th Ave, Ocala, www.newredhobbies.com]]></description>
+			<styleUrl>#icon-960-FFFFFF</styleUrl>
+			<Point>
+				<coordinates>-82.14009229999999,29.1871986,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Strickland Raceway</name>
+			<description><![CDATA[1698 Strickland Range Rd, Daytona Beach]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-81.08713970000002,29.237222300000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Beachline (Old SCRC)</name>
+			<description><![CDATA[3095 Grissom Pkwy, Cocoa]]></description>
+			<styleUrl>#icon-960-FFFFFF</styleUrl>
+			<Point>
+				<coordinates>-80.78981169999997,28.4460385,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>River Rat Raceway</name>
+			<description><![CDATA[Steven Stratton, 516 State Road 207, East Palatka]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-81.57068600000002,29.6873369,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Capital City Raceway</name>
+			<description><![CDATA[Chris Giraldo (Tekno Driver), 501 Easterwood Drive, Tallahassee]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-84.21962589999998,30.448783,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Phil Hurd Raceway</name>
+			<description><![CDATA[1818 East Montgomery Cross Roads, Savannah]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-81.09925269999997,31.992537600000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ultimate R/C</name>
+			<description><![CDATA[Address: 1836 Algoa Freindswood, Alvin, Texas 77511]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-95.1731873,29.424646900000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kwik R/C</name>
+			<description><![CDATA[Address: 603 N Loop 340, Bellmead, Texas 76705]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-97.1000862,31.602954700000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>3 Palms Action Sports</name>
+			<description><![CDATA[15100 Interstate 45 S, Conroe, Texas 77384]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-95.4631233,30.2440904,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GEARS R/C Club</name>
+			<description><![CDATA[1008 Wichita Ave, Harlingen, TX 78550]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-97.7075958,26.2019619,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>San Angelo Off-Road RC</name>
+			<description><![CDATA[8577 Knickerbocker Road San Angelo, TX]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-100.5135727,31.3574483,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>T&amp;T Speedway</name>
+			<description><![CDATA[7143 Mansfield Rd., Shreveport, LOUISIANA, US, 71108]]></description>
+			<styleUrl>#icon-960-CCCCCC</styleUrl>
+			<Point>
+				<coordinates>-93.7792969,32.4385106,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Flowood R/C Park</name>
+			<description><![CDATA[202 River Pines Cove, Flowood, MISSISSIPPI, US, 39232]]></description>
+			<styleUrl>#icon-960-FFFFFF</styleUrl>
+			<Point>
+				<coordinates>-90.1038551,32.3174575,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tri-City RC Raceway</name>
+			<description><![CDATA[301 US-90 W, Patterson, Louisiana 70392]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-91.30359650000001,29.699982299999995,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OSRC</name>
+			<description><![CDATA[3520 Bienville Blvd, Ocean Springs, MISSISSIPPI, US, 39564]]></description>
+			<styleUrl>#icon-960-FFFFFF</styleUrl>
+			<Point>
+				<coordinates>-88.7743378,30.410633700000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>D&amp;D Hobby Shop</name>
+			<description><![CDATA[19000 Hwy 56, Southmayd, Texas]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-96.7325592,33.6210521,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shaw's RC Shop Race Track</name>
+			<description><![CDATA[1811 SPRINGDALE RD ARDMORE OK 73401]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-97.1006012,34.1602557,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Wolfpack RC</name>
+			<description><![CDATA[3256 Airport Rd, Pearcy, Arkansas 71964]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-93.2006264,34.442734,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Amarillo R/C Motocross</name>
+			<description><![CDATA[9721 S. Coulter St., Amarillo, TEXAS, US, 79119]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-101.9182777,35.109658,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Taylor Park RC Raceway</name>
+			<description><![CDATA[425B N 11th St, Yukon, Oklahoma 73099]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-97.7601242,35.5125267,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Overlook Raceway</name>
+			<description><![CDATA[http://www.overlookraceway.com/ Near end of Overlook Rd, White Rock, NM 87544]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-106.1817563,35.8252512,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ARCOR Raceway</name>
+			<description><![CDATA[2900 Arenal Road Southwest, Albuquerque, NM 87121]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-106.7124367,35.0506568,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Full Throttle Hobby and Raceway</name>
+			<description><![CDATA[http://fullthrottlehobbyandraceway.com/ 1408 Eubank Boulevard Northeast, Albuquerque, NM 87112]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-106.5327072,35.0946308,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>A Main Speedway</name>
+			<description><![CDATA[http://www.amainspeedway.com/ 1001 Gary Ave, Pueblo, CO 81001]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-104.5555115,38.2768662,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rocky Mountain RC Raceway</name>
+			<description><![CDATA[210 W Colorado Ave, Colorado Springs, COLORADO, US, 80903]]></description>
+			<styleUrl>#icon-960-FFFFFF</styleUrl>
+			<Point>
+				<coordinates>-104.8296547,38.8334231,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MHOR</name>
+			<description><![CDATA[15540 E. Batavia Drive, Aurora, COLORADO, US, 80011]]></description>
+			<styleUrl>#icon-960-FFFFFF</styleUrl>
+			<Point>
+				<coordinates>-104.807682,39.7423063,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dirt Works</name>
+			<description><![CDATA[County Rd W & County Rd 47.5 Burlington, CO, US 80807 ]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-102.2976494,39.3155739,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Saint Charles Raceway (SCR)</name>
+			<description><![CDATA[13244 River Road, Destrehan, LOUISIANA, US, 70047]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-90.3836632,29.9524061,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Eagle RC Raceway</name>
+			<description><![CDATA[http://www.eaglercraceway.com/ 17136 FM 1797 EastTatum, TX]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-94.5706558,32.3191983,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC Power Speedway</name>
+			<description><![CDATA[24875 BLOOD RIVER ROAD, SPRINGFIELD, LOUISIANA, US, 70462]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-90.5630493,30.426917199999995,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>St. Louis Dirtburners</name>
+			<description><![CDATA[2330 MARSHALL ROAD KIRKWOOD, MO 63122]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-90.454905,38.5701453,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SMAC Track</name>
+			<description><![CDATA[3010 North Highway 94St. Charles, Mo 63301]]></description>
+			<styleUrl>#icon-960-FFFFFF</styleUrl>
+			<Point>
+				<coordinates>-90.4729271,38.8126935,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Novelty RC Raceway</name>
+			<description><![CDATA[204 N 5th St Novelty, Mo. 63460 ]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-92.2058487,40.0140001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HobbyPlex</name>
+			<description><![CDATA[10020 Scott CircleOmaha, NE 68122]]></description>
+			<styleUrl>#icon-960-FFFFFF</styleUrl>
+			<Point>
+				<coordinates>-96.0678434,41.3261017,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RJD Hobbies and Racway</name>
+			<description><![CDATA[1302 State Route 10 / East Lincoln Illinois 62656]]></description>
+			<styleUrl>#icon-960-CCCCCC</styleUrl>
+			<Point>
+				<coordinates>-89.346689,40.1504149,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fastlane Raceway</name>
+			<description><![CDATA[2850 F West 40 HwyBlue Springs, MO 64014]]></description>
+			<styleUrl>#icon-960-CCCCCC</styleUrl>
+			<Point>
+				<coordinates>-94.2974997,39.0083966,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hobby Haven</name>
+			<description><![CDATA[2575 86th St, Urbandale, IA 50322]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-93.7355983,41.6175117,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LRT Raceway</name>
+			<description><![CDATA[101 Technology Dr Evansdale, IA 50707]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-92.2841477,42.4796303,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MRO Off Road</name>
+			<description><![CDATA[Cornhusker Hwy & N 1st, Lincoln, NE]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-96.7200065,40.8354049,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bluegroove Hobbies</name>
+			<description><![CDATA[2700 University Ave suite 100. West Des Moines, IA]]></description>
+			<styleUrl>#icon-960-FFFFFF</styleUrl>
+			<Point>
+				<coordinates>-93.7410164,41.5997672,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRI Raceway</name>
+			<description><![CDATA[56705 crystal springs rd. Fairbury, NE]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-97.1987915,40.1248159,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Randy's RC Toy Box</name>
+			<description><![CDATA[No exact address yet]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-103.80895610000002,41.9429891,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Competition RC</name>
+			<description><![CDATA[100 SE 89th Street Oklahoma City, OK]]></description>
+			<styleUrl>#icon-960-FFFFFF</styleUrl>
+			<Point>
+				<coordinates>-97.5076103,35.3768738,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Adam's Creek Raceway (ACRC)</name>
+			<description><![CDATA[5207 S. 194th E. Ave, Broken Arrow, OK]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-95.7600975,36.0875345,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP Hobbies</name>
+			<description><![CDATA[2601 East 4th Avenue, Hutchinson, KS 67501]]></description>
+			<styleUrl>#icon-960-CCCCCC</styleUrl>
+			<Point>
+				<coordinates>-97.8835487,38.0570126,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lawton RC Raceway</name>
+			<description><![CDATA[7807 SE Lee Blvd, Lawton, OK 73501]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-98.2933044,34.5902586,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Battle Front Gaming and R/C</name>
+			<description><![CDATA[2605 Sanford Ave SWGrandville, Michigan]]></description>
+			<styleUrl>#icon-960-CCCCCC</styleUrl>
+			<Point>
+				<coordinates>-85.7558441,42.9172122,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>AMS Custom Hobbies</name>
+			<description><![CDATA[6434 Dort HwyGrand Blanc, Michigan]]></description>
+			<styleUrl>#icon-960-FFFFFF</styleUrl>
+			<Point>
+				<coordinates>-83.6541939,42.9326731,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dirt Burner Racing</name>
+			<description><![CDATA[38101 Schoolcraft RdLivonia, Michigan]]></description>
+			<styleUrl>#icon-960-FFFFFF</styleUrl>
+			<Point>
+				<coordinates>-83.4198761,42.3801044,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TarCar</name>
+			<description><![CDATA[7216 Nebraska AveToledo, OH 43615]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-83.7142754,41.6484166,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pheasant Run</name>
+			<description><![CDATA[11001 TerraceHolly, MI 48442]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-83.5891342,42.7581045,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stateline</name>
+			<description><![CDATA[7962 N Silver RdFremont, IN 46737]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-84.991951,41.7585077,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Central Michigan RC</name>
+			<description><![CDATA[575 S. Elm St.Ithaca, MI 48847]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-84.6158409,43.2839537,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>THE Track</name>
+			<description><![CDATA[160 West Newburg RdCarleton, MI 48117]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-83.3898354,42.0791137,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Ohio RC Factory</name>
+			<description><![CDATA[10 Boyer LaneJeffersonville, Ohio]]></description>
+			<styleUrl>#icon-960-777777</styleUrl>
+			<Point>
+				<coordinates>-83.5704231,39.6617422,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sparks Park </name>
+			<description><![CDATA[5751 Chantry DrColumbus, Ohio]]></description>
+			<styleUrl>#icon-960-FFFFFF</styleUrl>
+			<Point>
+				<coordinates>-82.8334808,39.9251404,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Medina Rc Raceway</name>
+			<description><![CDATA[Reagan Park, Medina, Ohio 44256]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-81.8405914,41.1538424,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Urbana Blue Groove Raceway</name>
+			<description><![CDATA[1217 Childrens Home RdUrbana, Ohio]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-83.72612,40.1161522,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Northeast Ohio Radio Controlled Racing Club</name>
+			<description><![CDATA[142 Lincoln ParkHartville, Ohio]]></description>
+			<styleUrl>#icon-960-FFFFFF</styleUrl>
+			<Point>
+				<coordinates>-81.3350487,40.9626598,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Batavia RC Raceway</name>
+			<description><![CDATA[299 Haskell LnBatavia, Ohio]]></description>
+			<styleUrl>#icon-960-FFFFFF</styleUrl>
+			<Point>
+				<coordinates>-84.181366,39.0842382,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Adventure RC Raceway</name>
+			<description><![CDATA[11008 Decimal DrLouisville, Kentucky]]></description>
+			<styleUrl>#icon-960-FFFFFF</styleUrl>
+			<Point>
+				<coordinates>-85.5501938,38.2164692,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Coshocton Rc Track</name>
+			<description><![CDATA[1600 Otsego Ave. RearCoshocton, OH, United States 43812]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-81.8558693,40.2555557,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jcp-rc raceway</name>
+			<description><![CDATA[2459 N Butler Ave, Indianapolis, Indiana 46218]]></description>
+			<styleUrl>#icon-960-777777</styleUrl>
+			<Point>
+				<coordinates>-86.07959750000002,39.8035249,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JCP Raceway (atterbury location)</name>
+			<description><![CDATA[Edinburgh, Indiana 46131]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-86.041832,39.3643973,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hals Hobby Warehouse</name>
+			<description><![CDATA[1440 Bessemer Drive, El Paso, TX 79936]]></description>
+			<styleUrl>#icon-960-FFFFFF</styleUrl>
+			<Point>
+				<coordinates>-106.3152122,31.7488978,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRCP Raceway</name>
+			<description><![CDATA[1399 Highway 281 Pingree ND]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-98.9432144,47.212455600000006,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Augusta RC Supercross</name>
+			<description><![CDATA[Robby Brown, Chuck Nesmith, and Tekno driver Ron Allen run it.]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-82.07090499999998,33.442995,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Radioactive RC Raceway</name>
+			<styleUrl>#icon-960-FFFFFF-nodesc</styleUrl>
+			<Point>
+				<coordinates>-88.73940249999998,36.6429289,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RBS RC Track</name>
+			<description><![CDATA[David Ellis, owner, 931-206-6966]]></description>
+			<styleUrl>#icon-960-FFFFFF</styleUrl>
+			<Point>
+				<coordinates>-87.3896029,36.469669,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Thunder RC Raceway</name>
+			<styleUrl>#icon-960-FFFFFF-nodesc</styleUrl>
+			<Point>
+				<coordinates>-86.756397,36.201573,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Wildflower RC Raceway</name>
+			<styleUrl>#icon-960-000000-nodesc</styleUrl>
+			<Point>
+				<coordinates>-86.88472530000001,35.6893389,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Boneyard </name>
+			<styleUrl>#icon-960-000000-nodesc</styleUrl>
+			<Point>
+				<coordinates>-88.48178640000003,36.7746515,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bullet Town RC Raceway</name>
+			<styleUrl>#icon-960-000000-nodesc</styleUrl>
+			<Point>
+				<coordinates>-88.731356,35.92079,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WFO Raceway</name>
+			<description><![CDATA[Lazelle School Rd, Maidsville, WV 26541]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-79.990934,39.712775,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RCX213</name>
+			<description><![CDATA[45420 Roscoe Rd, St Clairsville, OH 43950]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-80.973447,40.0617209,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tiltyard</name>
+			<description><![CDATA[6994 Tiltyard Dr, Dayton, VA 22821]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-79.0887099,38.4330901,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JMW</name>
+			<description><![CDATA[12800 Genito Rd, Midlothian, VA 23112]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-77.628795,37.4507683,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RVA Hobbies</name>
+			<description><![CDATA[10179 Hull Street Rd, Midlothian, VA 23112]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-77.5830165,37.442913,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC Pro Hayes, VA</name>
+			<styleUrl>#icon-960-000000-nodesc</styleUrl>
+			<Point>
+				<coordinates>-76.5125656,37.2937205,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Awesome RC</name>
+			<description><![CDATA[2885 Warrenton Rd, Fredericksburg, VA 22406]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-77.6199532,38.4254873,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>G's Raceway</name>
+			<description><![CDATA[8826 Olde Scotland Rd, Shippensburg, PA 17257]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-77.528223,40.024104,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LCRC</name>
+			<description><![CDATA[29207 Pennsylvania 35, Oakland Mills, PA 17076]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-77.3055049,40.6218928,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Motorama</name>
+			<description><![CDATA[2300 N Cameron St, Harrisburg, PA 17110]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-76.8836326,40.2864313,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Railyard Hobbies</name>
+			<description><![CDATA[Heritage Dr, Elverson, PA 19520]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-75.8592569,40.1536187,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mushroom Bowl</name>
+			<description><![CDATA[960 W Cypress St, Kennett Square, PA 19348]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-75.7380439,39.8409545,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GForce Hobbies</name>
+			<description><![CDATA[River Rd, New Castle, DE 19720]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-75.6212861,39.6260798,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Family Hobbies</name>
+			<description><![CDATA[3600 Northwest Blvd, Vineland, NJ 08360]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-75.023132,39.538524,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hobbyhut Raceway</name>
+			<description><![CDATA[2678 Egypt Rd, Norristown, PA 19403]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-75.4100502,40.1301724,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Trains and Lanes</name>
+			<description><![CDATA[3825 Northwood Ave, Easton, PA 18045]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-75.2891851,40.7054885,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>McCullough's Off-road</name>
+			<description><![CDATA[108 Callen Rd, Sarver, PA 16055]]></description>
+			<styleUrl>#icon-960-777777</styleUrl>
+			<Point>
+				<coordinates>-79.802043,40.67583,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Big Dog Rc</name>
+			<description><![CDATA[482 Stoneboro Lateral Rd, Sandy Lake, PA 16145]]></description>
+			<styleUrl>#icon-960-FFFFFF</styleUrl>
+			<Point>
+				<coordinates>-80.1222809,41.363091,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PT Raceway</name>
+			<description><![CDATA[129 Murrysville Rd #4, Trafford, PA 15085]]></description>
+			<styleUrl>#icon-960-FFFFFF</styleUrl>
+			<Point>
+				<coordinates>-79.72019100000001,40.392995,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Track</name>
+			<description><![CDATA[16806 Oakmont Ave, Gaithersburg, MD 20877]]></description>
+			<styleUrl>#icon-960-FFFFFF</styleUrl>
+			<Point>
+				<coordinates>-77.1763399,39.1315402,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bumps n Jumps</name>
+			<description><![CDATA[643 Old York Rd, Goldsboro, PA 17319]]></description>
+			<styleUrl>#icon-960-FFFFFF</styleUrl>
+			<Point>
+				<coordinates>-76.825694,40.169401,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Badlands Rc</name>
+			<description><![CDATA[7485 Butler Rd, Myrtle Beach, SC 29588]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-79.0340711,33.6723291,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>AMS</name>
+			<description><![CDATA[17645 U.S. 31, Cullman, AL 35058]]></description>
+			<styleUrl>#icon-960-000000</styleUrl>
+			<Point>
+				<coordinates>-86.8609514,34.2216856,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ARCS Hobbies and Speedway</name>
+			<description><![CDATA[7693 Center Rd N, Ashtabula, OH 44004]]></description>
+			<styleUrl>#icon-960-777777</styleUrl>
+			<Point>
+				<coordinates>-80.8538818,41.8290257,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Brown's Hobby Shop &amp; Raceway</name>
+			<description><![CDATA[17606 State Route 213, Irondale, Ohio]]></description>
+			<styleUrl>#icon-960-777777</styleUrl>
+			<Point>
+				<coordinates>-80.6817055,40.561808,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ed's Rc</name>
+			<description><![CDATA[401 Cora Drive Parkersburg, WV 26101]]></description>
+			<styleUrl>#icon-960-FFFFFF</styleUrl>
+			<Point>
+				<coordinates>-81.5482521,39.2935241,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shay’s RC Park</name>
+			<description><![CDATA[4413 Ohio 7, Burghill, OH 44404]]></description>
+			<styleUrl>#icon-960-FFFFFF</styleUrl>
+			<Point>
+				<coordinates>-80.5749321,41.3395715,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KRZ Raceway &amp; Hobbies</name>
+			<styleUrl>#icon-960-000000-nodesc</styleUrl>
+			<Point>
+				<coordinates>-78.14658399999996,42.9887749,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRC Raceway &amp; Hobbies</name>
+			<styleUrl>#icon-960-000000-nodesc</styleUrl>
+			<Point>
+				<coordinates>-75.4389645,43.1958231,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>R&amp;L Speedway</name>
+			<styleUrl>#icon-960-FFFFFF-nodesc</styleUrl>
+			<Point>
+				<coordinates>-78.88667399999997,43.0468789,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Makintraxx RC</name>
+			<styleUrl>#icon-960-000000-nodesc</styleUrl>
+			<Point>
+				<coordinates>-77.68243799999999,42.94558300000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Indoor</name>
+			<styleUrl>#icon-960-FFFFFF-nodesc</styleUrl>
+			<Point>
+				<coordinates>-77.59413669999999,43.1968988,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Thunder Alley</name>
+			<styleUrl>#icon-960-000000-nodesc</styleUrl>
+			<Point>
+				<coordinates>-116.98321820000002,33.9470457,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LRH Hobbies / Raceway</name>
+			<styleUrl>#icon-960-FFFFFF-nodesc</styleUrl>
+			<Point>
+				<coordinates>-117.87366400000003,33.857495,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rattlesnake Raceway</name>
+			<styleUrl>#icon-960-000000-nodesc</styleUrl>
+			<Point>
+				<coordinates>-122.29906399999999,40.497481,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Modesto RC Raceway</name>
+			<styleUrl>#icon-960-000000-nodesc</styleUrl>
+			<Point>
+				<coordinates>-120.9777305,37.701423,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lake Havasu RC Raceway</name>
+			<styleUrl>#icon-960-000000-nodesc</styleUrl>
+			<Point>
+				<coordinates>-114.33042260000003,34.4798153,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Warehouse 3</name>
+			<styleUrl>#icon-960-FFFFFF-nodesc</styleUrl>
+			<Point>
+				<coordinates>-112.10039699999999,33.583168,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Traction Hobbies</name>
+			<styleUrl>#icon-960-FFFFFF-nodesc</styleUrl>
+			<Point>
+				<coordinates>-119.8210383,39.591066,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Delta RC</name>
+			<styleUrl>#icon-960-000000-nodesc</styleUrl>
+			<Point>
+				<coordinates>-121.82283489999998,38.0101149,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hot Rod Hobbies</name>
+			<styleUrl>#icon-960-000000-nodesc</styleUrl>
+			<Point>
+				<coordinates>-118.54096240000001,34.4107749,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SCVRC</name>
+			<styleUrl>#icon-960-FFFFFF-nodesc</styleUrl>
+			<Point>
+				<coordinates>-118.5003494,34.417127,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Walla Walla Extreme RC</name>
+			<styleUrl>#icon-960-000000-nodesc</styleUrl>
+			<Point>
+				<coordinates>-118.36651640000002,46.0486396,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fear Farm RC</name>
+			<styleUrl>#icon-960-000000-nodesc</styleUrl>
+			<Point>
+				<coordinates>-112.2721797,33.4722873,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Scottsdale RC Speedway</name>
+			<styleUrl>#icon-960-000000-nodesc</styleUrl>
+			<Point>
+				<coordinates>-111.92507999999998,33.481913,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HobbyTown USA Tucson</name>
+			<styleUrl>#icon-960-000000-nodesc</styleUrl>
+			<Point>
+				<coordinates>-110.91306199999997,32.235857,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IERC Raceway</name>
+			<styleUrl>#icon-960-FFFFFF-nodesc</styleUrl>
+			<Point>
+				<coordinates>-117.24761799999997,34.079694,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SDRC Raceway</name>
+			<styleUrl>#icon-960-FFFFFF-nodesc</styleUrl>
+			<Point>
+				<coordinates>-117.165415,32.883279,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OCRC Raceway</name>
+			<styleUrl>#icon-960-FFFFFF-nodesc</styleUrl>
+			<Point>
+				<coordinates>-118.0394263,33.7402459,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Palm Desert RC Raceway</name>
+			<styleUrl>#icon-960-000000-nodesc</styleUrl>
+			<Point>
+				<coordinates>-116.40538740000001,33.7256577,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Revelation Raceway</name>
+			<styleUrl>#icon-960-000000-nodesc</styleUrl>
+			<Point>
+				<coordinates>-117.69904710000003,34.0595172,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>702 RC Raceway</name>
+			<styleUrl>#icon-960-FFFFFF-nodesc</styleUrl>
+			<Point>
+				<coordinates>-115.1729128,36.1384622,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Silver Dollar RC Raceway</name>
+			<styleUrl>#icon-960-000000-nodesc</styleUrl>
+			<Point>
+				<coordinates>-121.80864270000002,39.7182823,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nor Cal Hobbies</name>
+			<styleUrl>#icon-960-FFFFFF-nodesc</styleUrl>
+			<Point>
+				<coordinates>-121.8577563,37.3106404,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SRS HobbyTown Phoenix</name>
+			<styleUrl>#icon-960-FFFFFF-nodesc</styleUrl>
+			<Point>
+				<coordinates>-112.13178519999997,33.6241267,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sports Park</name>
+			<styleUrl>#icon-960-000000-nodesc</styleUrl>
+			<Point>
+				<coordinates>-111.06467050000003,32.3326246,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Outback Raceway</name>
+			<styleUrl>#icon-960-FFFFFF-nodesc</styleUrl>
+			<Point>
+				<coordinates>-121.82221400000003,39.708257,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Controlled Chaos Raceway</name>
+			<styleUrl>#icon-960-000000-nodesc</styleUrl>
+			<Point>
+				<coordinates>-118.158231,34.607733,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC Tracks of Las Vegas</name>
+			<styleUrl>#icon-960-000000-nodesc</styleUrl>
+			<Point>
+				<coordinates>-115.16642360000003,36.06988339999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Heritage RC Park</name>
+			<styleUrl>#icon-960-000000-nodesc</styleUrl>
+			<Point>
+				<coordinates>-117.00570199999997,32.591021,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>301 Raceway</name>
+			<styleUrl>#icon-960-FFFFFF-nodesc</styleUrl>
+			<Point>
+				<coordinates>-82.04921179999997,28.810817400000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>405 R/C Raceway</name>
+			<description><![CDATA[2905 NW 36th street Okc.,Ok. 73112]]></description>
+			<styleUrl>#icon-960-FFFFFF</styleUrl>
+			<Point>
+				<coordinates>-97.5676918,35.5080552,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dean's Discount Hobbies</name>
+			<styleUrl>#icon-960-000000-nodesc</styleUrl>
+			<Point>
+				<coordinates>-82.70718339999996,28.2691747,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lake Park R/C</name>
+			<styleUrl>#icon-960-000000-nodesc</styleUrl>
+			<Point>
+				<coordinates>-82.50975799999998,28.118569,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>B &amp; B Hobbies</name>
+			<styleUrl>#icon-960-000000-nodesc</styleUrl>
+			<Point>
+				<coordinates>-82.70947439999998,28.2946961,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>FZRC</name>
+			<styleUrl>#icon-960-CCCCCC-nodesc</styleUrl>
+			<Point>
+				<coordinates>-82.475391,27.277573,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SS Hobbies &amp; Raceway</name>
+			<styleUrl>#icon-960-CCCCCC-nodesc</styleUrl>
+			<Point>
+				<coordinates>-82.37900100000002,27.965882,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Triple Nickel Raceway</name>
+			<styleUrl>#icon-960-000000-nodesc</styleUrl>
+			<Point>
+				<coordinates>-81.8829672,27.8379667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>East Orange County RC Raceway</name>
+			<styleUrl>#icon-960-000000-nodesc</styleUrl>
+			<Point>
+				<coordinates>-81.096814,28.533156,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lake Hartwell RC</name>
+			<styleUrl>#icon-960-000000-nodesc</styleUrl>
+			<Point>
+				<coordinates>-83.08264910000003,34.3728819,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Coral Springs RC Track</name>
+			<styleUrl>#icon-960-000000-nodesc</styleUrl>
+			<Point>
+				<coordinates>-80.26001120000001,26.2455202,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dalton RC Raceway</name>
+			<styleUrl>#icon-960-000000-nodesc</styleUrl>
+			<Point>
+				<coordinates>-84.8883654,34.7814473,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Robbie Davidson</name>
+			<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+			<Point>
+				<coordinates>-82.0370466,34.7395701,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-503-DB4436-nodesc-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-DB4436-nodesc-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-960-000000-normal'>
+			<IconStyle>
+				<color>ff000000</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-960-000000-highlight'>
+			<IconStyle>
+				<color>ff000000</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-960-000000'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-960-000000-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-960-000000-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-960-000000-nodesc-normal'>
+			<IconStyle>
+				<color>ff000000</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-960-000000-nodesc-highlight'>
+			<IconStyle>
+				<color>ff000000</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-960-000000-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-960-000000-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-960-000000-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-960-777777-normal'>
+			<IconStyle>
+				<color>ff777777</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-960-777777-highlight'>
+			<IconStyle>
+				<color>ff777777</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-960-777777'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-960-777777-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-960-777777-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-960-CCCCCC-normal'>
+			<IconStyle>
+				<color>ffCCCCCC</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-960-CCCCCC-highlight'>
+			<IconStyle>
+				<color>ffCCCCCC</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-960-CCCCCC'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-960-CCCCCC-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-960-CCCCCC-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-960-CCCCCC-nodesc-normal'>
+			<IconStyle>
+				<color>ffCCCCCC</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-960-CCCCCC-nodesc-highlight'>
+			<IconStyle>
+				<color>ffCCCCCC</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-960-CCCCCC-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-960-CCCCCC-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-960-CCCCCC-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-960-FFFFFF-normal'>
+			<IconStyle>
+				<color>ffFFFFFF</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-960-FFFFFF-highlight'>
+			<IconStyle>
+				<color>ffFFFFFF</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-960-FFFFFF'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-960-FFFFFF-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-960-FFFFFF-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-960-FFFFFF-nodesc-normal'>
+			<IconStyle>
+				<color>ffFFFFFF</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-960-FFFFFF-nodesc-highlight'>
+			<IconStyle>
+				<color>ffFFFFFF</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-960-FFFFFF-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-960-FFFFFF-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-960-FFFFFF-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
